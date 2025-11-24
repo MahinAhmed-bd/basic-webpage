@@ -16,12 +16,11 @@
 
 
 }
-#about{
+
+#about {
 	display: none;
 }
-#about:target {
-	{display: block;}
-}
+
 
 .p1 {
 	font-weight: bold;
@@ -60,9 +59,9 @@ ul li {
 ul #last {
 	border: none;
 }
-.home::after {
 
-}
+
+
 
 .inp1 {
 	margin-left: 50px;
